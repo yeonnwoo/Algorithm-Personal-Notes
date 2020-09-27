@@ -2,8 +2,8 @@
 
 ### problem sorce
 
-* [Fashion-MNIST](https://github.com/Yeonwoo-Kim/Pytorch/tree/master/Fashion-MNIST)
-
+* [더하기 사이클](https://www.acmicpc.net/problem/1110)
+* [알파벳 찾기](https://www.acmicpc.net/problem/10809)
 
 
 <table>
@@ -13,15 +13,12 @@
   
   <tr>
     <td>20.09.27</td>
-    <td> 알고리즘 이름 </td>
-    <td> https://github.com/Yeonwoo-Kim/Pytorch/tree/master/Fashion-MNIST </td>
+    <td> 더하기 사이클 </td>
+    <td> https://github.com/Yeonwoo-Kim/Algorithm/blob/master/17595719.py3 </td>
+    <td> 알파벳 찾기 </td>
+    <td> https://github.com/Yeonwoo-Kim/Algorithm/blob/master/18287191.py3 </td>
   </tr>
   
-  <tr>
-    <td>20.09.27</td>
-    <td> 알고리즘 이름 </td>
-    <td> https://github.com/Yeonwoo-Kim/Pytorch/tree/master/Fashion-MNIST </td>
-  </tr>
   
   
 </table>
