@@ -12,12 +12,13 @@
   <th>sorce</th>
   
   <tr>
-    <td>20.09.27</td>
+    <td>-</td>
     <td> 더하기 사이클 </td>
     <td> https://github.com/Yeonwoo-Kim/Algorithm/blob/master/17595719.py3 </td>
   </tr>
   
   <tr>
+    <td>-</td>
    <td> 알파벳 찾기 </td>
    <td> https://github.com/Yeonwoo-Kim/Algorithm/blob/master/18287191.py3 </td>
   </tr>
