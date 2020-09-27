@@ -11,7 +11,7 @@
   <th>sorce</th>
   
   <tr>
-    <td> 더하기 사이클 </td>
+    <td style="font-size:3px;"> 더하기 사이클 </td>
     <td align="center" style="font-size:3px;"> https://github.com/Yeonwoo-Kim/Algorithm/blob/master/17595719.py3 </td>
   </tr>
   
