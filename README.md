@@ -1,5 +1,6 @@
 ## Algorithm
 
+* [Fashion-MNIST](https://github.com/Yeonwoo-Kim/Pytorch/tree/master/Fashion-MNIST)
 
 <table>
   <th>Date</th>
@@ -7,9 +8,9 @@
   <th>sorce</th>
   
   <tr>
-    <td>200927</td>
-    <td> [Fashion-MNIST] (https://github.com/Yeonwoo-Kim/Pytorch/tree/master/Fashion-MNIST) </td>
-    <td> [소스코드] (https://github.com/Yeonwoo-Kim/Pytorch/tree/master/Fashion-MNIST) </td>
+    <td>20.09.27</td>
+    <td> 알고리즘 이름 </td>
+    <td> https://github.com/Yeonwoo-Kim/Pytorch/tree/master/Fashion-MNIST </td>
   </tr>
   
   
