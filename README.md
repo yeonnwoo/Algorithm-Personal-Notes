@@ -1,6 +1,6 @@
 ## Algorithm
 
-### problem sorce
+### problem source
 
 ✔ [더하기 사이클](https://www.acmicpc.net/problem/1110) <br>
 ✔ [알파벳 찾기](https://www.acmicpc.net/problem/10809) <br>
@@ -19,7 +19,7 @@
 
 <table>
   <th>problem</th>
-  <th>sorce</th>
+  <th>source</th>
   
   <tr>
     <td align="center"> 더하기 사이클 </td>
