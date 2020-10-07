@@ -1,12 +1,12 @@
 ## Algorithm
 
-### C
+### ⚒ C
 * [삽입 정렬](https://github.com/Yeonwoo-Kim/Algorithm/blob/master/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.c) <br>
 * [선택 정렬](https://github.com/Yeonwoo-Kim/Algorithm/blob/master/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.c) <br>
 * [힙 정렬](https://www.acmicpc.net/problem/10809) <br>
 
 
-### Python
+### ⚒ Python
 
 
 
