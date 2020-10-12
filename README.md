@@ -24,35 +24,3 @@
 ✔ [ATM](https://www.acmicpc.net/problem/11399) <br>
 ✔ [동전 0](https://www.acmicpc.net/problem/11047) <br>
 ✔ [회의실 배정](https://www.acmicpc.net/problem/1931) <br>
-
-
-
-<table>
-  <th>problem</th>
-  <th>source</th>
-  
-  <tr>
-    <td align="center"> 더하기 사이클 </td>
-    <td align="center"> https://github.com/Yeonwoo-Kim/Algorithm/blob/master/%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4.py3 </td>
-  </tr>
-  
-  <tr>
-   <td align="center"> 알파벳 찾기 </td>
-   <td align="center"> https://github.com/Yeonwoo-Kim/Algorithm/blob/master/%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0.py3 </td>
-  </tr>
-    <tr>
-   <td align="center"> 설탕 배달 - 단어의 개수</td>
-   <td align="center"> https://github.com/Yeonwoo-Kim/Algorithm/blob/master/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.c </td>
-  </tr>
-    <tr>
-   <td align="center"> - </td>
-   <td align="center"> https://github.com/Yeonwoo-Kim/Algorithm/blob/master/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.c </td>
-  </tr>
-  <tr>
-   <td align="center"> - </td>
-   <td align="center"> https://github.com/Yeonwoo-Kim/Algorithm/blob/master/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.c </td>
-  </tr>
-  
-  
-  
-</table>
