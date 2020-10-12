@@ -21,12 +21,9 @@
 ✔ [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) <br>
 ✔ [단어 공부](https://www.acmicpc.net/problem/1157) <br>
 ✔ [단어의 개수](https://www.acmicpc.net/problem/1152) <br>
-✔ [알파벳 찾기](https://www.acmicpc.net/problem/10809) <br>
-✔ [알파벳 찾기](https://www.acmicpc.net/problem/10809) <br>
-✔ [알파벳 찾기](https://www.acmicpc.net/problem/10809) <br>
-✔ [알파벳 찾기](https://www.acmicpc.net/problem/10809) <br>
-✔ [알파벳 찾기](https://www.acmicpc.net/problem/10809) <br>
-✔ [알파벳 찾기](https://www.acmicpc.net/problem/10809) <br>
+✔ [ATM](https://www.acmicpc.net/problem/11399) <br>
+✔ [동전 0](https://www.acmicpc.net/problem/11047) <br>
+✔ [회의실 배정](https://www.acmicpc.net/problem/1931) <br>
 
 
 
