@@ -30,14 +30,14 @@
 
 * 모험가 길드 (핵심 유형) ✔
 * 곱하기 혹은 더하기 (Facebook 인터뷰 기출) ✔
-* [문자열 뒤집기](https://www.acmicpc.net/problem/1439) (핵심 유형)
+* [문자열 뒤집기](https://www.acmicpc.net/problem/1439) (핵심 유형) ✔
 * 만들 수 없는 금액 (K 대회 기출)
 * 볼링공 고르기 (S 기관 입학 테스트)
 * [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)
 
 #### 12장 구현
 
-* [럭키 스트레이트](https://www.acmicpc.net/problem/18406) (핵심 유형)
+* [럭키 스트레이트](https://www.acmicpc.net/problem/18406) (핵심 유형) ✔
 * 문자열 재정렬 (Facebook 인터뷰 기출)
 * [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) (카카오)
 * [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) (카카오)
@@ -48,7 +48,7 @@
 
 #### 13장 DFS/BFS
 
-* [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) (핵심 유형)
+* [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) (핵심 유형) ✔
 * [연구소](https://www.acmicpc.net/problem/14502) (삼성)
 * [경쟁적 전염](https://www.acmicpc.net/problem/18405) (핵심 유형)
 * [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) (카카오)
@@ -59,14 +59,14 @@
 
 #### 14장 정렬
 
-* [국영수](https://www.acmicpc.net/problem/10825) (핵심 유형)
-* [안테나](https://www.acmicpc.net/problem/18310) (국내 S 교육 기관 선발 평가)
+* [국영수](https://www.acmicpc.net/problem/10825) (핵심 유형) ✔
+* [안테나](https://www.acmicpc.net/problem/18310) (국내 S 교육 기관 선발 평가) ✔
 * [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) (카카오)
-* [카드 정렬하기](https://www.acmicpc.net/problem/1715) (핵심 유형)
+* [카드 정렬하기](https://www.acmicpc.net/problem/1715) (핵심 유형) ✔
 
 #### 15장 이진 탐색
 
-* 정렬된 배열에서 특정 수의 개수 구하기 (Zoho 인터뷰 기출)
+* 정렬된 배열에서 특정 수의 개수 구하기 (Zoho 인터뷰 기출) ✔
 * 고정점 찾기 (Amazon 인터뷰 기출)
 * [공유기 설치](https://www.acmicpc.net/problem/2110) (핵심 유형)
 * [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) (카카오)
@@ -82,7 +82,7 @@
 
 #### 17장 최단 경로
 
-* [플로이드](https://www.acmicpc.net/problem/11404) (핵심 유형)
+* [플로이드](https://www.acmicpc.net/problem/11404) (핵심 유형) ✔
 * 정확한 순위 (K 대회 기출)
 * 화성 탐사 (ICPC)
 * 숨바꼭질 (USACO)
