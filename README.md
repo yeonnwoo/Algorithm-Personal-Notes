@@ -61,13 +61,13 @@
 
 * [국영수](https://www.acmicpc.net/problem/10825) (핵심 유형) ✔
 * [안테나](https://www.acmicpc.net/problem/18310) (국내 S 교육 기관 선발 평가) ✔
-* [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) (카카오)
+* [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) (카카오) ✔
 * [카드 정렬하기](https://www.acmicpc.net/problem/1715) (핵심 유형) ✔
 
 #### 15장 이진 탐색
 
 * 정렬된 배열에서 특정 수의 개수 구하기 (Zoho 인터뷰 기출) ✔
-* 고정점 찾기 (Amazon 인터뷰 기출)
+* 고정점 찾기 (Amazon 인터뷰 기출) ✔
 * [공유기 설치](https://www.acmicpc.net/problem/2110) (핵심 유형)
 * [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) (카카오)
 
