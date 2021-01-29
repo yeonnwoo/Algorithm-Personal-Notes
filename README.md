@@ -39,7 +39,7 @@
 
 * [럭키 스트레이트](https://www.acmicpc.net/problem/18406) (핵심 유형) ✔
 * 문자열 재정렬 (Facebook 인터뷰 기출) ✔
-* [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) (카카오)
+* [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) (카카오) ✔
 * [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) (카카오)
 * [뱀](https://www.acmicpc.net/problem/3190) (삼성)
 * [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) (카카오)
