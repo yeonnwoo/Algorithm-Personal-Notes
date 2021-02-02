@@ -17,16 +17,16 @@
 #### Level 2 - (/) 
 #### Level 3 - (/) 
 
-## 카카오 기출 
-* [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) ✔
-* [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) ✔
-* [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) ✔
-* [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) ✔
-* [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) ✔
-* [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) ✔
-* [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) ✔
+## 카카오 기출 완
+* [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) 
+* [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) 
+* [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) 
+* [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) 
+* [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) 
+* [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) 
+* [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) 
 
-## 삼성 기출
+## 삼성 기출 완
 
 
 
