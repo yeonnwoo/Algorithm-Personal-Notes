@@ -14,8 +14,8 @@
 ## Programmers
 
 #### Level 1 - (44/44) ✔
-#### Level 2 - (/) 
-#### Level 3 - (/) 
+#### Level 2 - (25/53) 
+#### Level 3 - (3/44) 
 
 ## 카카오 기출 완
 * [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) 
@@ -25,6 +25,8 @@
 * [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) 
 * [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) 
 * [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) 
+* [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+
 
 ## 삼성 기출 완
 
