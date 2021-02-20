@@ -26,6 +26,7 @@
 * [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) 
 * [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) 
 * [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+* [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
 
 
 ## 삼성 기출 완
