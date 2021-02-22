@@ -14,7 +14,7 @@
 ## Programmers
 
 #### Level 1 - (44/44) ✔
-#### Level 2 - (25/53) 
+#### Level 2 - (31/53) 
 #### Level 3 - (3/44) 
 
 ## 카카오 기출 완
@@ -27,6 +27,8 @@
 * [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) 
 * [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 * [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
+* [수식 최대화](programmers.co.kr/learn/courses/30/lessons/67257)
+* [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
 
 
 ## 삼성 기출 완
