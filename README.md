@@ -14,7 +14,7 @@
 ## Programmers
 
 #### Level 1 - (44/44) ✔
-#### Level 2 - (40/53) 
+#### Level 2 - (41/54) 
 #### Level 3 - (3/44) 
 
 ## 카카오 기출 완
@@ -32,6 +32,8 @@
 * [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
 * [방금 그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
+* [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
+* [압축](programmers.co.kr/learn/courses/30/lessons/17684)
 * [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
 
 ## 삼성 기출 완
