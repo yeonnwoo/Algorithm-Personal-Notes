@@ -14,7 +14,7 @@
 ## Programmers
 
 #### Level 1 - (44/44) ✔
-#### Level 2 - (41/54) 
+#### Level 2 - (44/54) 
 #### Level 3 - (3/44) 
 
 ## 카카오 기출 완
@@ -35,6 +35,7 @@
 * [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
 * [압축](programmers.co.kr/learn/courses/30/lessons/17684)
 * [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
+* [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
 
 ## 삼성 기출 완
 
@@ -70,7 +71,7 @@ PS goal (2/50)
 * [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) (핵심 유형) ✔
 * [연구소](https://www.acmicpc.net/problem/14502) (삼성)
 * [경쟁적 전염](https://www.acmicpc.net/problem/18405) (핵심 유형)
-* [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) (카카오)
+* [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) (카카오) ✔
 * [연산자 끼워 넣기](https://www.acmicpc.net/problem/14888) (삼성)
 * [감시 피하기](https://www.acmicpc.net/problem/18428) (핵심 유형)
 * [인구 이동](https://www.acmicpc.net/problem/16234) (삼성)
