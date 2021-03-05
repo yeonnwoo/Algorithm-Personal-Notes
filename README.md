@@ -3,8 +3,6 @@
 ### ⚒ Python
 
 
-
-
 ## Baekjoon
 
 ### ✔ problem source
@@ -14,7 +12,7 @@
 ## Programmers
 
 #### Level 1 - (44/44) ✔
-#### Level 2 - (44/54) 
+#### Level 2 - (47/54) 
 #### Level 3 - (3/44) 
 
 ## 카카오 기출 완
@@ -36,6 +34,7 @@
 * [압축](programmers.co.kr/learn/courses/30/lessons/17684)
 * [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
 * [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+* [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
 
 ## 삼성 기출 완
 
