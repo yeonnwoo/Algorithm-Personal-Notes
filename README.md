@@ -35,6 +35,8 @@
 * [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
 * [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
 * [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
+* [n진수게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
+* [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
 
 ## 삼성 기출 완
 
