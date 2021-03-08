@@ -13,7 +13,7 @@
 
 #### Level 1 - (44/44) ✔
 #### Level 2 - (54/54) ✔
-#### Level 3 - (3/44) 
+#### Level 3 - (3/43) 
 
 ## 카카오 기출 완
 * [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) 
