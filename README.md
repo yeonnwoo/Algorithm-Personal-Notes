@@ -12,7 +12,7 @@
 ## Programmers
 
 #### Level 1 - (44/44) ✔
-#### Level 2 - (49/54) 
+#### Level 2 - (54/54) ✔
 #### Level 3 - (3/44) 
 
 ## 카카오 기출 완
@@ -37,6 +37,8 @@
 * [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
 * [n진수게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
 * [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
+* [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
+* [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
 
 ## 삼성 기출 완
 
@@ -54,7 +56,7 @@ PS goal (2/50)
 * [문자열 뒤집기](https://www.acmicpc.net/problem/1439) (핵심 유형) ✔
 * 만들 수 없는 금액 (K 대회 기출) ✔
 * 볼링공 고르기 (S 기관 입학 테스트) ✔
-* [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)
+* [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) (카카오)
 
 #### 12장 구현
 
