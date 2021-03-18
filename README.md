@@ -42,6 +42,7 @@
 
 ## 삼성 기출 완
 * [경사로](https://www.acmicpc.net/problem/14890)
+* [연구소](https://www.acmicpc.net/problem/14502)
 
 
 ## 나동빈 이코테 유형별 기출문제
@@ -69,7 +70,7 @@
 #### 13장 DFS/BFS
 
 * [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) (핵심 유형) ✔
-* [연구소](https://www.acmicpc.net/problem/14502) (삼성)
+* [연구소](https://www.acmicpc.net/problem/14502) (삼성) ✔
 * [경쟁적 전염](https://www.acmicpc.net/problem/18405) (핵심 유형)
 * [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) (카카오) ✔
 * [연산자 끼워 넣기](https://www.acmicpc.net/problem/14888) (삼성)
