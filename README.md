@@ -1,21 +1,21 @@
-## Algorithm
+# :octocat: :zap: Algorithm study :zap: :octocat: 
 
-### ⚒ Python
+## ⚒ Python
 
 
-## Baekjoon
+## Baekjoon :globe_with_meridians:
 
 ### ✔ problem source
 
 1000 1001 1008 1012 1065 1080 1110 1138 1157 1158 1260 1330 1373 1406 1439 1449 1463 1541 1546 1654 1676 1707 1715 1744 1850 1929 1931 1934 1946 1978 1991 2004 2089 2110 2178 2217 2331 2437 2438 2439 2440 2441 2442 2445 2446 2522 2557 2562 2577 2588 2606 2609 2667 2675 2739 2741 2742 2743 2745 2751 2753 2805 2839 2869 2875 2884 3052 4344 4673 4796 4963 5585 6588 7576 8393 8958 9012 9466 9498 9613 10171 10172 10430 10451 10610 10718 10799 10808 10809 10814 10815 10816 10817 10818 10820 10824 10825 10828 10845 10866 10869 10871 10872 10950 10951 10952 10953 10989 10991 10992 10998 11004 11005 11021 11022 11047 11399 11404 11576 11650 11651 11652 11653 11654 11655 11656 11718 11719 11720 11721 11724 11725 14890 15552 15596 18310 18352 18406
 
-## Programmers
+## Programmers :globe_with_meridians:
 
 #### Level 1 - (44/44) ✔
 #### Level 2 - (54/54) ✔
 #### Level 3 - (9/43) 
 
-## 카카오 기출 완
+## 카카오 기출 완 :v:
 * [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) 
 * [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) 
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) 
@@ -40,7 +40,7 @@
 * [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
 * [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
 
-## 삼성 기출 완
+## 삼성 기출 완 :v:
 * [경사로](https://www.acmicpc.net/problem/14890)
 * [연구소](https://www.acmicpc.net/problem/14502)
 * [로봇 청소기](https://www.acmicpc.net/problem/14503)
