@@ -44,6 +44,7 @@
 * [경사로](https://www.acmicpc.net/problem/14890)
 * [연구소](https://www.acmicpc.net/problem/14502)
 * [로봇 청소기](https://www.acmicpc.net/problem/14503)
+* [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
 
 
 ## 나동빈 이코테 유형별 기출문제
