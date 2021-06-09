@@ -15,7 +15,7 @@
 #### Level 2 - (54/54) ✔
 #### Level 3 - (10/43) 
 
-## 카카오 기출 완 :v:
+## 카카오 기출 solved :v:
 * [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) 
 * [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) 
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) 
@@ -40,7 +40,7 @@
 * [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
 * [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
 
-## 삼성 기출 완 :v:
+## 삼성 기출 solved :v:
 * [경사로](https://www.acmicpc.net/problem/14890)
 * [연구소](https://www.acmicpc.net/problem/14502)
 * [로봇 청소기](https://www.acmicpc.net/problem/14503)
