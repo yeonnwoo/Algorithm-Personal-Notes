@@ -1,4 +1,6 @@
-# :octocat: :zap: Algorithm study :zap: :octocat: 
+<h1 align="center">:octocat: :zap: Algorithm self study :zap: :octocat:</h1>
+
+* * *
 
 ## ⚒ Python
 
