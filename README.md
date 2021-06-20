@@ -1,5 +1,7 @@
 <h1 align="center">:octocat: :zap: Algorithm self study :zap: :octocat:</h1>
 
+[:pencil2:](https://yeon-woo-kim.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20PS)
+
 * * *
 
 ## ⚒ Python
