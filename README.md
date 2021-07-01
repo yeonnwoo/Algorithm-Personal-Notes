@@ -17,7 +17,7 @@
 ## Programmers :globe_with_meridians:
 
 #### Level 1 - (44/44) ✔
-#### Level 2 - (54/54) ✔
+#### Level 2 - (57/57) ✔
 #### Level 3 - (10/43) 
 
 ## 카카오 기출 solved :v:
