@@ -44,6 +44,8 @@
 * [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
 * [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
 * [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
+* [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
+
 
 ## 삼성 기출 solved :v:
 * [경사로](https://www.acmicpc.net/problem/14890)
