@@ -131,3 +131,6 @@
 * [청소년 상어](https://www.acmicpc.net/problem/19236) (삼성)
 * [어른 상어](https://www.acmicpc.net/problem/19237) (삼성)
 
+## 정규식 연습 문제
+[정규식 뿌수기](https://www.acmicpc.net/workbook/view/2833)
+
