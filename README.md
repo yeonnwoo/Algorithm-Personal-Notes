@@ -135,6 +135,7 @@
 [정규식 뿌수기](https://www.acmicpc.net/workbook/view/2833)
 
 ### 프로그래머스 1단계 재풀이
+[고득점 kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 [문제집](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
 
