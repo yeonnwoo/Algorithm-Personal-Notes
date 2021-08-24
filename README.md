@@ -134,8 +134,9 @@
 ### 정규식 연습 문제
 [정규식 뿌수기](https://www.acmicpc.net/workbook/view/2833)
 
-### 프로그래머스 1단계 재풀이
-[고득점 kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
-[문제집](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+### 프로그래머스 재풀이
+[고득점 kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)<br>
+- [해시](https://programmers.co.kr/learn/courses/30/parts/12077) ✔
+- [스택 큐](https://programmers.co.kr/learn/courses/30/parts/12081)
 
 
