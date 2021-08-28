@@ -138,6 +138,6 @@
 [고득점 kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)<br>
 - [해시](https://programmers.co.kr/learn/courses/30/parts/12077) ✔
 - [스택 큐](https://programmers.co.kr/learn/courses/30/parts/12081)
-- [힙](https://programmers.co.kr/learn/courses/30/parts/12117)
+- [힙](https://programmers.co.kr/learn/courses/30/parts/12117) ✔
 
 
