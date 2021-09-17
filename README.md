@@ -1,26 +1,40 @@
-<h1 align="center">:octocat: Algorithm self study  :octocat:</h1>
-
-[:pencil2:](https://yeon-woo-kim.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20PS)
-[:notebook:](https://yeon-woo-kim.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%2B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-
-* * *
-
-## ⚒ Python
+## Python Competitive Programming Team Notes
+- This repository is a python library for PS(Problem-Solving).<br>
+- 알고리즘 공부를 위한 파이썬 (Python) 소스코드 저장소입니다.
+- [이슈가 있었던 문제 풀이 기록용입니다.](https://yeon-woo-kim.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20PS)
 
 
-## Baekjoon :globe_with_meridians:
+## Contents
 
-### ✔ problem source
+### 그리디
 
-1000 1001 1002 1003 1008 1010 1011 1012 1021 1037 1065 1080 1110 1138 1149 1157 1158 1260 1316 1330 1373 1406 1436 1439 1449 1463 1541 1546 1654 1676 1707 1715 1744 1850 1874 1927 1929 1931 1932 1934 1946 1978 1991 2004 2089 2108 2110 2178 2217 2231 2331 2437 2438 2439 2440 2441 2442 2445 2446 2493 2522 2557 2562 2577 2579 2588 2606 2609 2630 2667 2675 2739 2741 2742 2743 2745 2751 2753 2798 2805 2839 2869 2875 2884 2941 3052 4344 4673 4796 4948 4949 4963 5585 6588 7576 8393 8958 9012 9095 9184 9461 9466 9498 9613 9663 10171 10172 10250 10430 10451 10610 10718 10773 10799 10808 10809 10814 10815 10816 10817 10818 10820 10824 10825 10828 10845 10866 10869 10871 10872 10950 10951 10952 10953 10991 10992 10998 11004 11005 11021 11022 11047 11050 11053 11279 11399 11404 11576 11650 11651 11652 11653 11654 11655 11656 11718 11719 11720 11721 11724 11725 11729 11866 12015 14502 14503 14890 15552 15596 15649 15650 15686 17144 18258 18310 18352 18406 21610
+### 구현
 
-## Programmers :globe_with_meridians:
+### DFS/BFS
 
-#### Level 1 - (44/44) ✔
-#### Level 2 - (57/57) ✔
-#### Level 3 - (10/43) 
+### 정렬
 
-## 카카오 기출 solved :v:
+
+### 이진 탐색
+
+### DP
+
+### 최단 경로
+
+### 그래프
+
+### Miscellaneous
+- Two Pointers
+  - Number of intervals whose sum is M
+- Interval Sum
+  - Prefix Sum
+  - Fenwick Tree (Binary Indexed Tree)
+- Matrix Rotation
+- Handling Recursion Limit
+
+## Solved
+
+### Kakao
 * [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) 
 * [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) 
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) 
@@ -47,7 +61,7 @@
 * [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
 
 
-## 삼성 기출 solved :v:
+### SWEA
 * [경사로](https://www.acmicpc.net/problem/14890)
 * [연구소](https://www.acmicpc.net/problem/14502)
 * [로봇 청소기](https://www.acmicpc.net/problem/14503)
@@ -134,9 +148,14 @@
 ### 정규식 연습 문제
 [정규식 뿌수기](https://www.acmicpc.net/workbook/view/2833)
 
-### 프로그래머스 재풀이
-[고득점 kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)<br>
-- [해시](https://programmers.co.kr/learn/courses/30/parts/12077) ✔
-- [스택 큐](https://programmers.co.kr/learn/courses/30/parts/12081) ✔
-- [힙](https://programmers.co.kr/learn/courses/30/parts/12117) ✔
-- [BFS/DFS](https://programmers.co.kr/learn/courses/30/parts/12421) ✔
+## problem source
+
+### Baekjoon
+
+1000 1001 1002 1003 1008 1010 1011 1012 1021 1037 1065 1080 1110 1138 1149 1157 1158 1260 1316 1330 1373 1406 1436 1439 1449 1463 1541 1546 1654 1676 1707 1715 1744 1850 1874 1927 1929 1931 1932 1934 1946 1978 1991 2004 2089 2108 2110 2178 2217 2231 2331 2437 2438 2439 2440 2441 2442 2445 2446 2493 2522 2557 2562 2577 2579 2588 2606 2609 2630 2667 2675 2739 2741 2742 2743 2745 2751 2753 2798 2805 2839 2869 2875 2884 2941 3052 4344 4673 4796 4948 4949 4963 5585 6588 7576 8393 8958 9012 9095 9184 9461 9466 9498 9613 9663 10171 10172 10250 10430 10451 10610 10718 10773 10799 10808 10809 10814 10815 10816 10817 10818 10820 10824 10825 10828 10845 10866 10869 10871 10872 10950 10951 10952 10953 10991 10992 10998 11004 11005 11021 11022 11047 11050 11053 11279 11399 11404 11576 11650 11651 11652 11653 11654 11655 11656 11718 11719 11720 11721 11724 11725 11729 11866 12015 14502 14503 14890 15552 15596 15649 15650 15686 17144 18258 18310 18352 18406 21610
+
+### Programmers
+
+#### Level 1 - (44/44) ✔
+#### Level 2 - (57/57) ✔
+#### Level 3 - (10/43) 
