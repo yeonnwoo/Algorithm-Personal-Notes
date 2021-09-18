@@ -1,4 +1,4 @@
-## Python Competitive Programming Team Notes
+## Python Competitive Programming Personal Notes
 - This repository is a python library for PS(Problem-Solving).<br>
 - 알고리즘 공부를 위한 파이썬 (Python) 소스코드 저장소입니다.
 - [이슈가 있었던 문제 풀이 기록용입니다.](https://yeon-woo-kim.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20PS)
