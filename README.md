@@ -6,22 +6,26 @@
 
 ## Contents
 
-### 그리디
+### Implementation
+- Greedy
+- Simulation
+- Bruteforcing
 
-### 구현
+### Searching
+- DFS/BFS
+- Binary Search
+- Python Binary Search Library
+  - Count the number of frequencies of elements whose value is between [left, right] in a sorted array
 
-### DFS/BFS
+### Dynamic Programming
 
-### 정렬
-
-
-### 이진 탐색
-
-### DP
-
-### 최단 경로
-
-### 그래프
+### Graph
+- Dijkstra Shortest Path
+- Floyd–Warshall algorithm
+- Minimum Spanning Tree (MST)
+  - Disjoint-Set (Union-Find)
+- Topology Sort
+- Bipartite Matching
 
 ### Miscellaneous
 - Two Pointers
