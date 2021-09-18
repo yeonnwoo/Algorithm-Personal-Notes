@@ -35,4 +35,7 @@ print(result)
 [input]
 4 6
 19 15 10 17
+
+[output]
+15
 '''
