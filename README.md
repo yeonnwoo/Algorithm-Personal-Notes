@@ -38,6 +38,11 @@
 
 ## Solved
 
+### Programmers
+- Level 1 - (44/44) ✔
+- Level 2 - (57/57) ✔
+- Level 3 - (10/43) 
+
 ### Kakao
 * [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) 
 * [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) 
@@ -70,13 +75,6 @@
 * [연구소](https://www.acmicpc.net/problem/14502)
 * [로봇 청소기](https://www.acmicpc.net/problem/14503)
 * [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
-
-
-### Programmers
-
-- Level 1 - (44/44) ✔
-- Level 2 - (57/57) ✔
-- Level 3 - (10/43) 
 
 
 ### 나동빈 이코테 유형별 기출문제
