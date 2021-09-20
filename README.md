@@ -6,22 +6,26 @@
 
 ## Contents
 
-### 그리디
+### Implementation
+- Greedy
+- Simulation
+- Bruteforcing
 
-### 구현
+### Searching
+- DFS/BFS
+- Binary Search
+- Python Binary Search Library
+  - Count the number of frequencies of elements whose value is between [left, right] in a sorted array
 
-### DFS/BFS
+### Dynamic Programming
 
-### 정렬
-
-
-### 이진 탐색
-
-### DP
-
-### 최단 경로
-
-### 그래프
+### Graph
+- Dijkstra Shortest Path
+- Floyd–Warshall algorithm
+- Minimum Spanning Tree (MST)
+  - Disjoint-Set (Union-Find)
+- Topology Sort
+- Bipartite Matching
 
 ### Miscellaneous
 - Two Pointers
@@ -68,7 +72,14 @@
 * [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
 
 
-## 나동빈 이코테 유형별 기출문제
+### Programmers
+
+- Level 1 - (44/44) ✔
+- Level 2 - (57/57) ✔
+- Level 3 - (10/43) 
+
+
+### 나동빈 이코테 유형별 기출문제
 
 #### 그리디
 
@@ -140,22 +151,9 @@
 * [최종 순위](https://www.acmicpc.net/problem/3665) (ICPC)
 
 #### 19장 2020년 상반기 삼성전자 기출문제
-
 * [아기 상어](https://www.acmicpc.net/problem/16236) (삼성)
 * [청소년 상어](https://www.acmicpc.net/problem/19236) (삼성)
 * [어른 상어](https://www.acmicpc.net/problem/19237) (삼성)
 
 ### 정규식 연습 문제
-[정규식 뿌수기](https://www.acmicpc.net/workbook/view/2833)
-
-## problem source
-
-### Baekjoon
-
-1000 1001 1002 1003 1008 1010 1011 1012 1021 1037 1065 1080 1110 1138 1149 1157 1158 1260 1316 1330 1373 1406 1436 1439 1449 1463 1541 1546 1654 1676 1707 1715 1744 1850 1874 1927 1929 1931 1932 1934 1946 1978 1991 2004 2089 2108 2110 2178 2217 2231 2331 2437 2438 2439 2440 2441 2442 2445 2446 2493 2522 2557 2562 2577 2579 2588 2606 2609 2630 2667 2675 2739 2741 2742 2743 2745 2751 2753 2798 2805 2839 2869 2875 2884 2941 3052 4344 4673 4796 4948 4949 4963 5585 6588 7576 8393 8958 9012 9095 9184 9461 9466 9498 9613 9663 10171 10172 10250 10430 10451 10610 10718 10773 10799 10808 10809 10814 10815 10816 10817 10818 10820 10824 10825 10828 10845 10866 10869 10871 10872 10950 10951 10952 10953 10991 10992 10998 11004 11005 11021 11022 11047 11050 11053 11279 11399 11404 11576 11650 11651 11652 11653 11654 11655 11656 11718 11719 11720 11721 11724 11725 11729 11866 12015 14502 14503 14890 15552 15596 15649 15650 15686 17144 18258 18310 18352 18406 21610
-
-### Programmers
-
-#### Level 1 - (44/44) ✔
-#### Level 2 - (57/57) ✔
-#### Level 3 - (10/43) 
+[정규식 re](https://www.acmicpc.net/workbook/view/2833)
