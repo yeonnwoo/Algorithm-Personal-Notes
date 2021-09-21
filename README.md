@@ -28,6 +28,7 @@
 - Bipartite Matching
 
 ### Miscellaneous
+- Prime Number
 - Two Pointers
   - Number of intervals whose sum is M
 - Interval Sum
