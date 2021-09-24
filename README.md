@@ -5,7 +5,7 @@
 ## Contents
 
 ### Implementation
-- Greedy
+- [Greedy](https://github.com/yeonnwoo/Algorithm-Personal-Notes/tree/master/Greedy)
 - Simulation
 - Bruteforcing
 
